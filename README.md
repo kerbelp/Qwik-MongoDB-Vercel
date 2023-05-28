@@ -3,10 +3,13 @@
 This is an effort to create a template of Qwik City with MongoDB and Vercel.
 
 The project requires these evironment variables:
+
+```
 DB_CONN_STRING=<value>
 DB_NAME=<value>
 COLLECTION_NAME=<value>
-  
+```
+
 Right now there is an issue when runnning `pnpm run build`:
 
 output:
